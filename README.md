@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IronManKoa
-- 👀 I’m interested in python
-- 🌱 I’m currently learning javascript
+- 👀 I’m an intermediate in python
+- 🌱 I’m currently learning html/css/js
+
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
